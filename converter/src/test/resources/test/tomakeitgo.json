@@ -1,0 +1,11 @@
+{
+  "version": "1",
+  "entries": ["a.html", "b.html"],
+  "options": {
+    "title": "title",
+    "subject": "subject",
+    "author": "author",
+    "creator": "creator",
+    "keywords": "KeyWords!!!"
+  }
+}
